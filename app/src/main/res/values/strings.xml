@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CSC Group</string>
+    <string name="title_activity_maps">CSCFuelCard</string>
+    <string name="title_activity_main">CSC Group</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ireland">Ireland</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_nireland">NIreland</string>
+    <string name="title_activity_nireand">NIreandActivity</string>
+    <string name="title_activity_uk">UK</string>
+
+</resources>

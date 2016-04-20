@@ -1,0 +1,41 @@
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EC4900"
+        >
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_weight="1"
+            android:background="@drawable/back"
+            android:onClick="ToMain"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:text="Nearby Sites"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center"
+            android:autoText="false"
+            android:gravity="center_vertical|center_horizontal" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+        </LinearLayout>
+    </LinearLayout>
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:id="@+id/map" tools:context=".MapsActivity"
+        android:name="com.google.android.gms.maps.SupportMapFragment" >
+    </fragment>
+</LinearLayout>
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/darker_gray"
+    android:baselineAligned="false"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EC4900"
+        >
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="@android:dimen/app_icon_size"
+            android:layout_weight="1"
+            android:background="@drawable/back"
+            android:onClick="ToMain"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:text="N IRELAND SITE LIST"
+            android:textSize="20dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center"
+            android:autoText="false"
+            android:gravity="center_vertical|center_horizontal" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="@android:dimen/app_icon_size"
+            />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/search1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:autoText="false"
+        android:hint="Search"
+        android:singleLine="true">
+
+
+    </EditText>
+
+    <ListView
+        android:id="@+id/sites_grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:fastScrollAlwaysVisible="true"
+        android:fastScrollEnabled="true"
+        >
+
+    </ListView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        />
+</LinearLayout>

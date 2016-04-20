@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/classes-1bcc9956ebc58008943ccc3a417d7aa9730baac2.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/classes-335dd7ff443006c506064fa22ca4bb8cc9f890d4.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-881e50e57c98431e18b2cb99e2877a3f4b2bad33.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/classes-e61bdd238579245667355074c0066322421717bc.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/parse-android-1.13.0-163cf777b705c92e9a5cbc1fd70e02e9f7f25a10.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/bolts-applinks-1.4.0-50bad48371e106514ffebec372c5527b865d6518.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/Documents/Tools/android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-587059c2a5a7ac987d38f60761f4509fa4114b04.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0-6435124d477695e17c3d670a3f9530e9ff5565c3.jar" />
+    </item>
+    <item
+        jar="/Users/ship8-2/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="/Users/ship8-2/Documents/Development/CSCFuelCard/app/build/intermediates/pre-dexed/release/bolts-android-1.4.0-4824832f2ff89e1968a95e509b6cfae50a3c9196.jar" />
+    </item>
+
+</items>
